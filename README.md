@@ -3,7 +3,7 @@
 ### 📌 Introduction  
 This project aims to develop a **mobile and web-based application** that helps **vehicle owners in Sri Lanka** find **reliable service centers**, book **appointments**, and purchase **spare parts** efficiently.  
 
-![Uploading Group 8712.png…]()
+![Group 8712](https://github.com/user-attachments/assets/8f6793a5-43c4-43d0-9a8c-45150c5bbca1)
 
 ### 🚀 Project Objectives  
 ✅ Create a **user-friendly mobile app** for locating & scheduling service centers.  

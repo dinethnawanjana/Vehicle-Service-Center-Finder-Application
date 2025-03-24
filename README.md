@@ -73,13 +73,12 @@ This project aims to develop a **mobile and web-based application** that helps *
 |![BOOKING DETAILS - II](https://github.com/user-attachments/assets/eaa48dcb-d238-46bc-94b8-d005b853127d) | | | |
 
 
-
 ### 📷 Screens Back-End
 
 | SCREEN | SCREEN | SCREEN | SCREEN |
 |---------|------------|-------------|-------------|
-
-
+| ![SPLASH SCREEN](https://github.com/user-attachments/assets/4651c7c0-7a3c-4661-a778-bd29d1d21211) | ![ADMIN LOGIN](https://github.com/user-attachments/assets/02ea6f3e-4444-478f-b957-06531133f484) | ![ADMIN REGISTER](https://github.com/user-attachments/assets/b7889cd5-f617-4b45-8b9f-5b6cd45a7da1) | ![ADMIN REGISTRATION - III](https://github.com/user-attachments/assets/d2367ea1-19db-44bd-9aa2-5d3057916888) |
+| ![EDIT SPARE PARTS - I](https://github.com/user-attachments/assets/09243b2d-99a2-4753-9ebc-a657fe9a5d8b) | ![EDIT SPARE PARTS - II](https://github.com/user-attachments/assets/8b856a49-c2e1-4314-be09-6a1f042b585c) | ![SPARE PARTS LIST](https://github.com/user-attachments/assets/37e3a16f-5f7e-4c9e-a6c7-61490beb3782) | ![ADD SPARE PARTS](https://github.com/user-attachments/assets/be3efef0-c327-45a5-a168-0c9c46742255) |
 
 
 ### 🏦 System Architecture  

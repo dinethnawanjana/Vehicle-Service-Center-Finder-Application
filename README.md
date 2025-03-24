@@ -1,4 +1,4 @@
-![HOME SCREEN](https://github.com/user-attachments/assets/90201e67-342b-4f08-adaf-d9527ac3d6c8)## 🚗 Vehicle Service Booking & Management System  
+## 🚗 Vehicle Service Booking & Management System  
 
 ### 📌 Introduction  
 This project aims to develop a **mobile and web-based application** that helps **vehicle owners in Sri Lanka** find **reliable service centers**, book **appointments**, and purchase **spare parts** efficiently.  
